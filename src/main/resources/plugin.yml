@@ -1,0 +1,9 @@
+name: SoaromaSAC-Plan-Addon
+version: '${project.version}'
+main: com.shimincraft.plansac.soaromasacplanaddon.SoaromaSACPlanAddon
+api-version: 1.19
+softdepend:
+  - Plan
+  - SoaromaSAC
+authors: [ Scot_Survivor ]
+description: A plan addon to display some states about SoaromaSAC
